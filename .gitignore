@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+*.egg-info/
+
+# Keep dist/*.whl trackable: Pacman Board reads built artifacts from dist/.

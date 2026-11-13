@@ -10,3 +10,5 @@ build/
 *.egg-info/
 
 # Keep dist/*.whl trackable: Pacman Board reads built artifacts from dist/.
+.Rproj.user
+*.Rproj
